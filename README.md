@@ -129,4 +129,8 @@ FOOD_API_OLLAMA_EMBEDDING_MODEL=nomic-embed-text
 cd /home/farjam/food_recommendation_system
 /home/farjam/miniconda3/envs/food_recommendation_system/bin/python3 -m pytest
 ```
+
+## License
+
+This project code is licensed under the MIT License. See `LICENSE` for details.
 # AI-Food-Recommendation-API
